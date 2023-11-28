@@ -94,7 +94,12 @@ body{
 
 .quote > p {
     margin-bottom: 20px;
+}
 
+.quote-img{
+    position: relative;
+    top: 40px;
+    left: -40px;
 }
 
 /*///////////// 3.3 Support /////////////*/
